@@ -1,0 +1,50 @@
+{
+  "text": {
+    "book": 3,
+    "a": 1,
+    "flight": 5,
+    "i": 10,
+    "want": 21,
+    "to": 19,
+    "need": 14,
+    "ticket": 18,
+    "can": 4,
+    "you": 23,
+    "help": 9,
+    "me": 13,
+    "from": 8,
+    "new": 15,
+    "york": 22,
+    "london": 12,
+    "on": 16,
+    "july": 11,
+    "__number__": 0,
+    "fly": 6,
+    "berlin": 2,
+    "for": 7,
+    "travel": 20,
+    "paris": 17
+  },
+  "intent": {
+    "book_flight": 0
+  },
+  "response": null,
+  "action_name": {
+    "action_listen": 7,
+    "action_restart": 8,
+    "action_session_start": 10,
+    "action_default_fallback": 5,
+    "action_deactivate_loop": 2,
+    "action_revert_fallback_events": 9,
+    "action_default_ask_affirmation": 3,
+    "action_default_ask_rephrase": 4,
+    "action_two_stage_fallback": 11,
+    "action_unlikely_intent": 12,
+    "action_back": 0,
+    "action_extract_slots": 6,
+    "action_book_flight": 1,
+    "flight_form": 13
+  },
+  "action_text": null,
+  "intent_response_key": null
+}

@@ -1,0 +1,6 @@
+[
+  {
+    "name": "travel_date",
+    "pattern": "(January|February|March|April|May|June|July|August|September|October|November|December) \\d{1,2}"
+  }
+]

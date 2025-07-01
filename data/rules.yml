@@ -1,13 +1,24 @@
 version: "3.1"
 
 rules:
-
-- rule: Say goodbye anytime the user says goodbye
+- rule: Activate flight form
   steps:
-  - intent: goodbye
-  - action: utter_goodbye
+    - intent: book_flight
+    - action: flight_form
+    - active_loop: flight_form
 
-- rule: Say 'I am a bot' anytime the user challenges
+- rule: Submit flight form
   steps:
-  - intent: bot_challenge
-  - action: utter_iamabot
+    - active_loop: flight_form
+    - active_loop: null
+    - action: action_book_flight
+
+- rule: Greet
+  steps:
+    - intent: greet
+    - action: utter_greet
+
+- rule: Goodbye
+  steps:
+    - intent: goodbye
+    - action: utter_goodbye

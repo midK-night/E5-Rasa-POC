@@ -1,91 +1,57 @@
 version: "3.1"
 
 nlu:
+- intent: book_flight
+  examples: |
+    - book a flight
+    - I want to book a flight
+    - I need a flight ticket
+    - can you help me book a flight from [New York](departure_city) to [London](arrival_city) on [July 15](travel_date)?
+    - I want to fly to [Berlin](arrival_city)
+    - I need a flight to [New York](arrival_city)
+    - book a flight for me
+    - I want to travel to [Paris](arrival_city)
+    - can you book a flight to [London](arrival_city)?
+    - I want to fly from [New York](departure_city) to [Paris](arrival_city) on [July 15](travel_date)
+    - Book a flight from [Los Angeles](departure_city) to [Tokyo](arrival_city) for [next Monday](travel_date)
+    - Can I get a flight from [Chicago](departure_city) to [Miami](arrival_city) on [August 2](travel_date)?
+    - Fly me from [Boston](departure_city) to [Rome](arrival_city) on [July 20](travel_date)
+    - I want to leave [Seattle](departure_city) and arrive in [Amsterdam](arrival_city) on [August 10](travel_date)
+    - I want to book a flight from [San Francisco](departure_city) to [Paris](arrival_city) on [July 18](travel_date)
+    - Book me a flight from [San Francisco](departure_city) to [Tokyo](arrival_city) on [August 3](travel_date)
+    - Get me a flight from [Seattle](departure_city) to [Rome](arrival_city) on [July 25](travel_date)
+    - Can you book from [Boston](departure_city) to [Berlin](arrival_city) on [July 30](travel_date)?
+    - Book a flight from [New York](departure_city) to [London](arrival_city) on [July 22](travel_date)
+    - Can you help me get a flight from [Los Angeles](departure_city) to [Tokyo](arrival_city) on [August 3](travel_date)?
+    - I need a flight from [Chicago](departure_city) to [Berlin](arrival_city) on [August 10](travel_date)
+    - Please book me a flight from [Boston](departure_city) to [Madrid](arrival_city) for [July 25](travel_date)
+    - I’d like to fly from [Houston](departure_city) to [Rome](arrival_city) on [September 1](travel_date)
+    - Get me a flight from [Miami](departure_city) to [Amsterdam](arrival_city) on [August 5](travel_date)
+    - Can you book a ticket from [Seattle](departure_city) to [Dublin](arrival_city) for [July 30](travel_date)?
+    - I need to fly from [San Diego](departure_city) to [Barcelona](arrival_city) on [August 15](travel_date)
+    - I want a ticket from [Phoenix](departure_city) to [Vienna](arrival_city) on [July 29](travel_date)
+    - Book a trip from [Philadelphia](departure_city) to [Prague](arrival_city) for [August 7](travel_date)
+    - Fly me from [Denver](departure_city) to [Zurich](arrival_city) on [August 20](travel_date)
+    - I’d like a flight leaving [Atlanta](departure_city) and arriving in [Stockholm](arrival_city) on [July 31](travel_date)
+    - Can you find me a flight from [Austin](departure_city) to [Oslo](arrival_city) on [August 2](travel_date)?
+    - Please help me book a flight from [Detroit](departure_city) to [Copenhagen](arrival_city) on [August 9](travel_date)
+
+- regex: travel_date
+  examples: |
+    - (January|February|March|April|May|June|July|August|September|October|November|December) \d{1,2}
+
 - intent: greet
   examples: |
-    - hey
-    - hello
     - hi
-    - hello there
+    - hello
+    - hey
     - good morning
     - good evening
-    - moin
-    - hey there
-    - let's go
-    - hey dude
-    - goodmorning
-    - goodevening
-    - good afternoon
 
 - intent: goodbye
   examples: |
-    - cu
-    - good by
-    - cee you later
-    - good night
     - bye
     - goodbye
-    - have a nice day
-    - see you around
-    - bye bye
-    - see you later
-
-- intent: affirm
-  examples: |
-    - yes
-    - y
-    - indeed
-    - of course
-    - that sounds good
-    - correct
-
-- intent: deny
-  examples: |
-    - no
-    - n
-    - never
-    - I don't think so
-    - don't like that
-    - no way
-    - not really
-
-- intent: mood_great
-  examples: |
-    - perfect
-    - great
-    - amazing
-    - feeling like a king
-    - wonderful
-    - I am feeling very good
-    - I am great
-    - I am amazing
-    - I am going to save the world
-    - super stoked
-    - extremely good
-    - so so perfect
-    - so good
-    - so perfect
-
-- intent: mood_unhappy
-  examples: |
-    - my day was horrible
-    - I am sad
-    - I don't feel very well
-    - I am disappointed
-    - super sad
-    - I'm so sad
-    - sad
-    - very sad
-    - unhappy
-    - not good
-    - not very good
-    - extremly sad
-    - so saad
-    - so sad
-
-- intent: bot_challenge
-  examples: |
-    - are you a bot?
-    - are you a human?
-    - am I talking to a bot?
-    - am I talking to a human?
+    - see you
+    - talk later
+    - see you soon

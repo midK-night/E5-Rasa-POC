@@ -1,0 +1,57 @@
+{
+  "type": "MaxHistoryTrackerFeaturizer",
+  "state_featurizer": {
+    "action_texts": [],
+    "entity_tag_specs": [],
+    "feature_states": {
+      "intent": {
+        "back": 0,
+        "book_flight": 1,
+        "goodbye": 2,
+        "greet": 3,
+        "nlu_fallback": 4,
+        "out_of_scope": 5,
+        "restart": 6,
+        "session_start": 7
+      },
+      "action_name": {
+        "action_listen": 0,
+        "action_restart": 1,
+        "action_session_start": 2,
+        "action_default_fallback": 3,
+        "action_deactivate_loop": 4,
+        "action_revert_fallback_events": 5,
+        "action_default_ask_affirmation": 6,
+        "action_default_ask_rephrase": 7,
+        "action_two_stage_fallback": 8,
+        "action_unlikely_intent": 9,
+        "action_back": 10,
+        "...": 11,
+        "action_extract_slots": 12,
+        "action_book_flight": 13,
+        "utter_ask_arrival_city": 14,
+        "utter_ask_departure_city": 15,
+        "utter_ask_travel_date": 16,
+        "utter_flight_details": 17,
+        "utter_goodbye": 18,
+        "utter_greet": 19,
+        "flight_form": 20
+      },
+      "entities": {
+        "arrival_city": 0,
+        "departure_city": 1,
+        "travel_date": 2
+      },
+      "slots": {
+        "departure_city_0": 0,
+        "arrival_city_0": 1,
+        "travel_date_0": 2
+      },
+      "active_loop": {
+        "flight_form": 0
+      }
+    }
+  },
+  "remove_duplicates": true,
+  "max_history": 5
+}

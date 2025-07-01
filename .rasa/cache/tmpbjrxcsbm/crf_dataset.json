@@ -1,0 +1,3881 @@
+[
+  [
+    {
+      "text": "book",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "a",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "flight",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "I",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "want",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "book",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "a",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "flight",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "I",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "need",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "a",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "flight",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "ticket",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "can",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "you",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "help",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "me",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "book",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "a",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "flight",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "from",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "New",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "B-departure_city",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "York",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "L-departure_city",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "London",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "U-arrival_city",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "on",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "July",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": true
+      },
+      "dense_features": [],
+      "entity_tag": "B-travel_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "15",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": true
+      },
+      "dense_features": [],
+      "entity_tag": "L-travel_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "I",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "want",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "fly",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Berlin",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "U-arrival_city",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "I",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "need",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "a",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "flight",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "New",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "B-arrival_city",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "York",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "L-arrival_city",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "book",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "a",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "flight",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "for",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "me",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "I",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "want",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "travel",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Paris",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "U-arrival_city",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "can",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "you",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "book",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "a",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "flight",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "London",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "U-arrival_city",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "I",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "want",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "fly",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "from",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "New",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "B-departure_city",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "York",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "L-departure_city",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Paris",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "U-arrival_city",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "on",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "July",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": true
+      },
+      "dense_features": [],
+      "entity_tag": "B-travel_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "15",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": true
+      },
+      "dense_features": [],
+      "entity_tag": "L-travel_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Book",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "a",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "flight",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "from",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Los",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "B-departure_city",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Angeles",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "L-departure_city",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Tokyo",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "U-arrival_city",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "for",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "next",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "B-travel_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Monday",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "L-travel_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Can",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "I",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "get",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "a",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "flight",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "from",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Chicago",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "U-departure_city",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Miami",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "U-arrival_city",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "on",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "August",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": true
+      },
+      "dense_features": [],
+      "entity_tag": "B-travel_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "2",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": true
+      },
+      "dense_features": [],
+      "entity_tag": "L-travel_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Fly",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "me",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "from",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Boston",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "U-departure_city",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Rome",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "U-arrival_city",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "on",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "July",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": true
+      },
+      "dense_features": [],
+      "entity_tag": "B-travel_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "20",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": true
+      },
+      "dense_features": [],
+      "entity_tag": "L-travel_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "I",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "want",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "leave",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Seattle",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "U-departure_city",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "and",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "arrive",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "in",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Amsterdam",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "U-arrival_city",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "on",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "August",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": true
+      },
+      "dense_features": [],
+      "entity_tag": "B-travel_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "10",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": true
+      },
+      "dense_features": [],
+      "entity_tag": "L-travel_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "I",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "want",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "book",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "a",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "flight",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "from",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "San",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "B-departure_city",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Francisco",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "L-departure_city",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Paris",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "U-arrival_city",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "on",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "July",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": true
+      },
+      "dense_features": [],
+      "entity_tag": "B-travel_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "18",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": true
+      },
+      "dense_features": [],
+      "entity_tag": "L-travel_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Book",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "me",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "a",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "flight",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "from",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "San",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "B-departure_city",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Francisco",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "L-departure_city",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Tokyo",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "U-arrival_city",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "on",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "August",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": true
+      },
+      "dense_features": [],
+      "entity_tag": "B-travel_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "3",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": true
+      },
+      "dense_features": [],
+      "entity_tag": "L-travel_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Get",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "me",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "a",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "flight",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "from",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Seattle",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "U-departure_city",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Rome",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "U-arrival_city",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "on",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "July",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": true
+      },
+      "dense_features": [],
+      "entity_tag": "B-travel_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "25",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": true
+      },
+      "dense_features": [],
+      "entity_tag": "L-travel_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Can",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "you",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "book",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "from",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Boston",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "U-departure_city",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Berlin",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "U-arrival_city",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "on",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "July",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": true
+      },
+      "dense_features": [],
+      "entity_tag": "B-travel_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "30",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": true
+      },
+      "dense_features": [],
+      "entity_tag": "L-travel_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Book",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "a",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "flight",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "from",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "New",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "B-departure_city",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "York",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "L-departure_city",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "London",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "U-arrival_city",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "on",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "July",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": true
+      },
+      "dense_features": [],
+      "entity_tag": "B-travel_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "22",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": true
+      },
+      "dense_features": [],
+      "entity_tag": "L-travel_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Can",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "you",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "help",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "me",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "get",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "a",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "flight",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "from",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Los",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "B-departure_city",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Angeles",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "L-departure_city",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Tokyo",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "U-arrival_city",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "on",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "August",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": true
+      },
+      "dense_features": [],
+      "entity_tag": "B-travel_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "3",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": true
+      },
+      "dense_features": [],
+      "entity_tag": "L-travel_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "I",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "need",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "a",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "flight",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "from",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Chicago",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "U-departure_city",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Berlin",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "U-arrival_city",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "on",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "August",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": true
+      },
+      "dense_features": [],
+      "entity_tag": "B-travel_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "10",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": true
+      },
+      "dense_features": [],
+      "entity_tag": "L-travel_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Please",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "book",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "me",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "a",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "flight",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "from",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Boston",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "U-departure_city",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Madrid",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "U-arrival_city",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "for",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "July",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": true
+      },
+      "dense_features": [],
+      "entity_tag": "B-travel_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "25",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": true
+      },
+      "dense_features": [],
+      "entity_tag": "L-travel_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "I",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "d",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "like",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "fly",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "from",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Houston",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "U-departure_city",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Rome",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "U-arrival_city",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "on",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "September",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": true
+      },
+      "dense_features": [],
+      "entity_tag": "B-travel_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "1",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": true
+      },
+      "dense_features": [],
+      "entity_tag": "L-travel_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Get",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "me",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "a",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "flight",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "from",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Miami",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "U-departure_city",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Amsterdam",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "U-arrival_city",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "on",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "August",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": true
+      },
+      "dense_features": [],
+      "entity_tag": "B-travel_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "5",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": true
+      },
+      "dense_features": [],
+      "entity_tag": "L-travel_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Can",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "you",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "book",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "a",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "ticket",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "from",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Seattle",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "U-departure_city",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Dublin",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "U-arrival_city",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "for",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "July",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": true
+      },
+      "dense_features": [],
+      "entity_tag": "B-travel_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "30",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": true
+      },
+      "dense_features": [],
+      "entity_tag": "L-travel_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "I",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "need",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "fly",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "from",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "San",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "B-departure_city",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Diego",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "L-departure_city",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Barcelona",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "U-arrival_city",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "on",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "August",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": true
+      },
+      "dense_features": [],
+      "entity_tag": "B-travel_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "15",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": true
+      },
+      "dense_features": [],
+      "entity_tag": "L-travel_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "I",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "want",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "a",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "ticket",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "from",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Phoenix",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "U-departure_city",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Vienna",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "U-arrival_city",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "on",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "July",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": true
+      },
+      "dense_features": [],
+      "entity_tag": "B-travel_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "29",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": true
+      },
+      "dense_features": [],
+      "entity_tag": "L-travel_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Book",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "a",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "trip",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "from",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Philadelphia",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "U-departure_city",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Prague",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "U-arrival_city",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "for",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "August",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": true
+      },
+      "dense_features": [],
+      "entity_tag": "B-travel_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "7",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": true
+      },
+      "dense_features": [],
+      "entity_tag": "L-travel_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Fly",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "me",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "from",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Denver",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "U-departure_city",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Zurich",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "U-arrival_city",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "on",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "August",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": true
+      },
+      "dense_features": [],
+      "entity_tag": "B-travel_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "20",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": true
+      },
+      "dense_features": [],
+      "entity_tag": "L-travel_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "I",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "d",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "like",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "a",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "flight",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "leaving",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Atlanta",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "U-departure_city",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "and",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "arriving",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "in",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Stockholm",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "U-arrival_city",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "on",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "July",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": true
+      },
+      "dense_features": [],
+      "entity_tag": "B-travel_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "31",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": true
+      },
+      "dense_features": [],
+      "entity_tag": "L-travel_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Can",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "you",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "find",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "me",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "a",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "flight",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "from",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Austin",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "U-departure_city",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Oslo",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "U-arrival_city",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "on",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "August",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": true
+      },
+      "dense_features": [],
+      "entity_tag": "B-travel_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "2",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": true
+      },
+      "dense_features": [],
+      "entity_tag": "L-travel_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Please",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "help",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "me",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "book",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "a",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "flight",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "from",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Detroit",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "U-departure_city",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "to",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Copenhagen",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "U-arrival_city",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "on",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "August",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": true
+      },
+      "dense_features": [],
+      "entity_tag": "B-travel_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "9",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": true
+      },
+      "dense_features": [],
+      "entity_tag": "L-travel_date",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "hi",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "hello",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "hey",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "good",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "morning",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "good",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "evening",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "bye",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "goodbye",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "see",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "you",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "talk",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "later",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "see",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "you",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "soon",
+      "pos_tag": null,
+      "pattern": {
+        "travel_date": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ]
+]

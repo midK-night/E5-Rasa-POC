@@ -1,0 +1,25 @@
+{
+  "lookup": {
+    "rules": {
+      "[{\"active_loop\": {\"name\": \"should_not_be_set\"}, \"prev_action\": {\"action_name\": \"action_book_flight\"}}]": "action_listen",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"book_flight\"}}]": "flight_form",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"book_flight\"}}, {\"active_loop\": {\"name\": \"flight_form\"}, \"prev_action\": {\"action_name\": \"flight_form\"}, \"user\": {\"intent\": \"book_flight\"}}]": "action_listen"
+    },
+    "rule_only_slots": [],
+    "rule_only_loops": [
+      "flight_form"
+    ],
+    "rules_for_loop_unhappy_path": {
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}}, {\"active_loop\": {\"name\": \"flight_form\"}, \"prev_action\": {\"action_name\": \"flight_form\"}, \"user\": {\"intent\": \"book_flight\"}}]": "do_not_predict_loop_action"
+    },
+    "rules_not_in_stories": [
+      "predicting default action with intent restart",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"book_flight\"}}]",
+      "predicting default action with intent back",
+      "predicting default action with intent session_start",
+      "handling active loops and forms - flight_form",
+      "[{\"active_loop\": {\"name\": \"should_not_be_set\"}, \"prev_action\": {\"action_name\": \"action_book_flight\"}}]",
+      "handling active loops and forms - flight_form - action_listen"
+    ]
+  }
+}

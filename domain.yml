@@ -27,7 +27,6 @@ slots:
 
   arrival_city:
     type: text
-    
     mappings:
     -  type: from_entity
        entity: arrival_city

@@ -13,6 +13,23 @@ rules:
     - active_loop: null
     - action: action_book_flight
 
+- rule: Activate cancel form
+  steps:
+    - intent: cancel_flight
+    - action: cancel_form
+    - active_loop: cancel_form
+
+- rule: Submit cancel form
+  steps:
+    - active_loop: cancel_form
+    - active_loop: null
+    - action: action_cancel_flight
+
+- rule: Clear log
+  steps:
+    - intent: reset_log
+    - action: action_reset_log
+
 - rule: Greet
   steps:
     - intent: greet

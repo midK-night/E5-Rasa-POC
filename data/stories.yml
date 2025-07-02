@@ -12,3 +12,15 @@ stories:
     - action: action_book_flight
     - intent: goodbye
     - action: utter_goodbye
+
+- story: user cancels a flight
+  steps:
+    - intent: greet
+    - action: utter_greet
+    - intent: cancel_flight
+    - action: cancel_form
+    - active_loop: cancel_form
+    - active_loop: null
+    - action: action_cancel_flight
+    - intent: goodbye
+    - action: utter_goodbye

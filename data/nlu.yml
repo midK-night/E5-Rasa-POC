@@ -47,13 +47,6 @@ nlu:
     - please cancel my flight
     - I need to cancel my flight booking
     - can you help me cancel my flight?
-    - I want to cancel my flight from [New York](departure_city) to [London](arrival_city) on [July 15](travel_date)
-    - I need to cancel my flight to [Berlin](arrival_city)
-    - please cancel my flight to [New York](arrival_city)
-    - I want to cancel my flight from [Los Angeles](departure_city) to [Tokyo](arrival_city) on [August 3](travel_date)
-    - I need to cancel my flight from [Chicago](departure_city) to [Miami](arrival_city) on [August 2](travel_date)
-    - I want to cancel my flight from [Boston](departure_city) to [Rome](arrival_city) on [July 20](travel_date)
-    - I need to cancel my flight from [Seattle](departure_city) to [Amsterdam](arrival_city) on [August 10](travel_date)
     - I want to cancel my flight [2](flight_id)
     - I need to cancel my flight [3](flight_id)
     - I'd like to cancel my flight [4](flight_id)
@@ -71,6 +64,15 @@ nlu:
     - Cancel the ticket for flight [36](flight_id).
     - Please go ahead and cancel flight [87](flight_id).
     - I'd like to cancel my seat on flight [12](flight_id).
+
+- intent: reset_log
+  examples: |
+    - reset log
+    - clear flight history
+    - start over
+    - reset flights
+    - clear log
+    - clear flight log
 
 - intent: greet
   examples: |

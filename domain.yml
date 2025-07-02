@@ -4,11 +4,14 @@ intents:
   - book_flight
   - greet
   - goodbye
+  - reset_log
+  - cancel_flight
 
 entities:
   - departure_city
   - arrival_city
   - travel_date
+  - flight_id
 
 forms:
   flight_form:
@@ -16,6 +19,13 @@ forms:
       - departure_city
       - arrival_city
       - travel_date
+    ignored_intents:
+      - reset_log
+      - cancel_flight
+
+  cancel_form:
+    required_slots:
+      - flight_id
 
 slots:
   departure_city:
@@ -39,8 +49,14 @@ slots:
        entity: travel_date
        influence_conversation: true
 
-responses:
+  flight_id:
+    type: text
+    mappings:
+    -  type: from_entity
+       entity: flight_id
+       influence_conversation: true
 
+responses:
   utter_ask_departure_city:
   - text: "Which city are you departing from?"
 
@@ -53,6 +69,9 @@ responses:
   utter_flight_details:
   - text: "You wish to fly from {departure_city} to {arrival_city} on {travel_date}. Is that correct?"
 
+  utter_ask_flight_id:
+  - text: "Please provide the flight ID you wish to cancel: "
+
   utter_greet:
   - text: "Hello!"
 
@@ -61,6 +80,8 @@ responses:
 
 actions:
   - action_book_flight
+  - action_cancel_flight
+  - action_reset_log
 
 session_config:
   session_expiration_time: 60

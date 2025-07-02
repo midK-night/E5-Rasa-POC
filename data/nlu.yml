@@ -40,6 +40,38 @@ nlu:
   examples: |
     - (January|February|March|April|May|June|July|August|September|October|November|December) \d{1,2}
 
+- intent: cancel_flight
+  examples: |
+    - cancel my flight
+    - I want to cancel my flight
+    - please cancel my flight
+    - I need to cancel my flight booking
+    - can you help me cancel my flight?
+    - I want to cancel my flight from [New York](departure_city) to [London](arrival_city) on [July 15](travel_date)
+    - I need to cancel my flight to [Berlin](arrival_city)
+    - please cancel my flight to [New York](arrival_city)
+    - I want to cancel my flight from [Los Angeles](departure_city) to [Tokyo](arrival_city) on [August 3](travel_date)
+    - I need to cancel my flight from [Chicago](departure_city) to [Miami](arrival_city) on [August 2](travel_date)
+    - I want to cancel my flight from [Boston](departure_city) to [Rome](arrival_city) on [July 20](travel_date)
+    - I need to cancel my flight from [Seattle](departure_city) to [Amsterdam](arrival_city) on [August 10](travel_date)
+    - I want to cancel my flight [2](flight_id)
+    - I need to cancel my flight [3](flight_id)
+    - I'd like to cancel my flight [4](flight_id)
+    - help me cancel my flight [5](flight_id)
+    - please cancel flight [6](flight_id)
+    - can you cancel my flight [7](flight_id)
+    - can you help me cancel flight [8](flight_id)
+    - Please cancel flight [9](flight_id).
+    - I want to cancel my reservation for flight [10](flight_id).
+    - Can you cancel flight number [34](flight_id)?
+    - Cancel the booking for flight [82](flight_id).
+    - I'd like to cancel flight [86](flight_id), please.
+    - Can I cancel flight [42](flight_id) right now?
+    - I need to cancel flight ID [53](flight_id).
+    - Cancel the ticket for flight [36](flight_id).
+    - Please go ahead and cancel flight [87](flight_id).
+    - I'd like to cancel my seat on flight [12](flight_id).
+
 - intent: greet
   examples: |
     - hi

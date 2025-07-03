@@ -35,6 +35,32 @@ nlu:
     - I’d like a flight leaving [Atlanta](departure_city) and arriving in [Stockholm](arrival_city) on [July 31](travel_date)
     - Can you find me a flight from [Austin](departure_city) to [Oslo](arrival_city) on [August 2](travel_date)?
     - Please help me book a flight from [Detroit](departure_city) to [Copenhagen](arrival_city) on [August 9](travel_date)
+    - [June 10](travel_date)
+    - [July 15](travel_date)
+    - [August 3](travel_date)
+    - [Vienna](arrival_city)
+    - [San Francisco](departure_city)
+    - [Tokyo](arrival_city)
+    - [Paris](arrival_city)
+    - [Berlin](departure_city)
+    - [August 8](travel_date)
+    - [London](arrival_city)
+    - [New York](departure_city)
+    - [Los Angeles](departure_city)
+    - [Chicago](departure_city)
+    - [Miami](arrival_city)
+    - [January 15](travel_date)
+    - [February 20](travel_date)
+    - [March 5](travel_date)
+    - [April 10](travel_date)
+    - [May 25](travel_date)
+    - [June 30](travel_date)
+    - [July 4](travel_date)
+    - [August 12](travel_date)
+    - [September 18](travel_date)
+    - [October 22](travel_date)
+    - [November 3](travel_date)
+    - [December 15](travel_date)
 
 - regex: travel_date
   examples: |
@@ -64,7 +90,22 @@ nlu:
     - Cancel the ticket for flight [36](flight_id).
     - Please go ahead and cancel flight [87](flight_id).
     - I'd like to cancel my seat on flight [12](flight_id).
-
+    - I want to cancel my flight [15](flight_id).
+    - [0](flight_id)
+    - [1](flight_id)
+    - [2](flight_id)
+    - [3](flight_id)
+    - [4](flight_id)
+    - [5](flight_id)
+    - [6](flight_id)
+    - [7](flight_id)
+    - [8](flight_id)
+    - [9](flight_id)
+    - [10](flight_id)
+    - [11](flight_id)
+    - [18](flight_id)
+    - [23](flight_id)
+  
 - intent: reset_log
   examples: |
     - reset log

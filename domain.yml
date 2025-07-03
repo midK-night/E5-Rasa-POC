@@ -26,6 +26,9 @@ forms:
   cancel_form:
     required_slots:
       - flight_id
+    ignored_intents:
+      - reset_log
+      - book_flight
 
 slots:
   departure_city:
@@ -33,6 +36,7 @@ slots:
     mappings:
     -  type: from_entity
        entity: departure_city
+       intent: book_flight
        influence_conversation: true
 
   arrival_city:
@@ -40,6 +44,7 @@ slots:
     mappings:
     -  type: from_entity
        entity: arrival_city
+       intent: book_flight
        influence_conversation: true
 
   travel_date:
@@ -47,6 +52,7 @@ slots:
     mappings:
     -  type: from_entity
        entity: travel_date
+       intent: book_flight
        influence_conversation: true
 
   flight_id:
@@ -54,6 +60,7 @@ slots:
     mappings:
     -  type: from_entity
        entity: flight_id
+       intent: cancel_flight
        influence_conversation: true
 
 responses:
